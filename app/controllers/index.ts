@@ -1,1 +1,1 @@
-export * from './welcomeController';
+export * from './welcome/welcome.controller';
