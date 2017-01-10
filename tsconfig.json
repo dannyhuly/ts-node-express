@@ -3,11 +3,13 @@
         "module": "commonjs",
         "target": "es5",
         "noImplicitAny": false,
-        "sourceMap": true,
-        "outDir": "build"
+        "sourceMap": false
     },
     "exclude": [
         "node_modules",
         "**/*.spec.ts"
+    ],
+    "files": [
+        "typings/index.d.ts"
     ]
 }

@@ -37,3 +37,7 @@ jspm_packages
 .node_repl_history
 typings
 build
+app/**/*.js
+app/**/*.js.map
+test/**/*.spec.js
+test/**/*.spec.js.map
